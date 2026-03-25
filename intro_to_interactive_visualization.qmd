@@ -40,6 +40,9 @@ library(plotly)
 
 * Interests: Cluster analysis, Dimensional reduction methods, Autoregressive modeling
 
+* Interned at Merck where I developed an R-Shiny application for the exploration and preliminary analysis of aggregate level datasets.
+
+
 ## Prerequisites
 
 * A laptop with R/RStudio installed
@@ -619,6 +622,15 @@ shinyApp(ui, server)
 ```
 * this starts the Shiny server in RStudio or your browser
 * All inputs, filters, and plots are now interactive
+
+## Publishing an R Shiny App
+* Once your app works locally, you can share it online
+* One option is shinyapps.io
+  * Free hosting service by Posit
+* Posit Connect / Shiny Server
+  * More advanced / institutional hosting (more common for companies)
+  * Used by companies and universities
+  * Requires server setup (Linux, admin access)
 
 ## Recap
 ```{r}

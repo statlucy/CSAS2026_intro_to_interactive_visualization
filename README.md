@@ -14,3 +14,4 @@ This workshop will introduce the fundamentals of interactive visualization, a st
 
 * A laptop with R/RStudio installed
 * Basic familiarity with R is recommended, but no prior experience with Shiny or Plotly is required.
+* Please have the following packages installed: install.packages(c("tidyverse", "shiny", "plotly", "knitr"))

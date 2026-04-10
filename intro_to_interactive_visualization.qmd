@@ -1,6 +1,6 @@
 ---
 title: Introduction to Interactive Visualization with Shiny and Plotly
-subtitle: Connecticut Sports Analystics Symposium 2026
+subtitle: Connecticut Sports Analytics Symposium 2026
 author: Lucy Liu
 date: 10 April 2026
 date-format: "MMMM D, YYYY, 4:05-5:15"
@@ -518,7 +518,7 @@ Filters by:
 * Points range
 * Stone positions
 * Optional sampling
-Adds TaskName column for descriptive labels
+* Adds TaskName column for descriptive labels
 
 ## Server Example
 ```{r, eval = FALSE}
